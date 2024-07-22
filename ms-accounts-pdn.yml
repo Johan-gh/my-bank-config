@@ -2,7 +2,7 @@ build:
   version: "v0.0.2"
 
 support:
-  message: "Welcome to bank of Accenture - ms-accounts :: Environment PDN"
+  message: "Welcome to bank of Accenture - ms-accounts :: Environment PDN :: Git provider"
   contactInfo:
     name: "User Admin"
     email: "admin@mybank.com"
